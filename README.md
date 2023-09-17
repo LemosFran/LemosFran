@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Fullstack developer from Argentina</h3>
 <h3 align="center">Un apasionado desarrollador Fullstack de Argentina</h3>
 
-- 💬 Ask me about / Pregúntame sobre: **Html, Css, Java, Javascript, Spring, MySql**
+- 💬 Ask me about / Pregúntame sobre: **Html, Css, Java, Javascript, React Js, Spring, Spring Security, MySql**
 
 
 - 📫 How to reach me / Cómo contactarme: **lemosf199@gmail.com**
