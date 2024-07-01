@@ -6,7 +6,7 @@
 - 💬 Ask me about / Pregúntame sobre: ** Figma, Adobe XD, Html, Css, Java, Javascript, React Js, Java, Spring Boot, Spring Security, MySql**
 
 
-- 📫 How to reach me / Cómo contactarme: **lemosf199@gmail.com**  **https://linktr.ee/lemosfranco**
+- 📫 How to reach me / Cómo contactarme: **lemosf199@gmail.com** - **https://linktr.ee/lemosfranco**
 
 <h3 align="left">Connect with me / Conéctate conmigo:</h3>
 <p align="left">
